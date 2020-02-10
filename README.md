@@ -7,5 +7,5 @@ Super resolution is the process of upscaling and or improving the details within
 This repo includes the PyTorch implementation of the paper along with a sample result, a summary document and a pretrained model. It also has a onnx model called super_resolution.onnx which can be used to run the model for inference on CPUs with the help of 'Super_resolution_on_onnx_Runtime.ipynb' notebook. 
 
 ### Resources 
-https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html#running-the-model-on-an-image-using-onnx-runtime
-https://pypi.org/project/onnxruntime/
+1. https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html#running-the-model-on-an-image-using-onnx-runtime
+2. https://pypi.org/project/onnxruntime/
